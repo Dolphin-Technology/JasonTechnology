@@ -40,7 +40,7 @@
 		<springframework.version>6.0.0</springframework.version>
 		<junit-version>5.8.2</junit-version>
 		<log4j2.version>2.17.1</log4j2.version>
-		<springboot.version>2.5.12</springboot.version>
+		<springboot.version>2.5.15</springboot.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<jsonb-api.version>1.1.4</jsonb-api.version>
 		<jsonb-glassfish-impl.version>1.1</jsonb-glassfish-impl.version>
